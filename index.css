@@ -11,3 +11,10 @@
 ul {
   list-style: none;
 }
+
+#repos-list:hover {
+  background-color: var(--white);
+  cursor: pointer;
+  transform: scale(1.1);
+  font-size: 2rem;
+}
